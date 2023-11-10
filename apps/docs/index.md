@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Mini Query Documentation"
-  text: "The Write Less, Do More, JavaScript Library."
+  text: "The Write Less, Do More, JavaScript Library. with mini query"
   tagline: A minimal version of jQuery
   actions:
     - theme: brand
@@ -13,7 +13,6 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
-
 features:
   - title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
