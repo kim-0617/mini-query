@@ -1,0 +1,19 @@
+{
+  "name": "mini-query",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "yarn workspace @sh-kim/mini-query test",
+    "example": "yarn workspace example dev",
+    "build": "yarn workspace @sh-kim/mini-query build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
