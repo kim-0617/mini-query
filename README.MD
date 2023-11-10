@@ -12,6 +12,8 @@
 
 - yarn workspace를 사용할 때는, 루트에서 yarn install 을 실행하면 하위의 모든 폴더의 의존성을 설치한다.
 
+- example 에서 mini query의 최신버전을 사용할 수 있는 이유는 npm에서 땡겨오는 것 보다 local version을 더 우선시 하기 때문이다.
+
 ## 구현 예시
 
 ```js
